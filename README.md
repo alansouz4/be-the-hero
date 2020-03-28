@@ -2,6 +2,7 @@
 Tecnologias utilizadas:
 
 Back-end
+- JavaScript
 - NodeJS
 - Express
 - Cors
@@ -9,4 +10,8 @@ Back-end
 - SQLite
 
 Front-end
+- HTML5
+- CSS
+- Bootstrap
+- JavaScript
 - ReactJS
