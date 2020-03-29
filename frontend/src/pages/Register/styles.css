@@ -1,0 +1,77 @@
+.register-container {
+  /* largura */
+  width: 100%;
+  /* largura maxima */
+  max-width: 1120px;
+  /* ocupar a altura toda do corpo */
+  height: 100vh;
+  /* faz com que o conteudo fique sempre centralizado */
+  margin: 0 auto;
+
+  /* facilita os alinhamentos e aciona o align e justify 
+  e tbm faz com que os elementos fique um ao lado do outro 
+  flex-direction: column - deixa um embaixo do outro, caso queira */
+  display: flex;
+  /* alinha os itens verticalmente ao centro */
+  align-items: center;
+  /* alinha os itens horizontalmente ao centro */
+  justify-content: center;
+}
+
+/* div content, pega toda a aplicação  */
+.register-container .content {
+  width: 100%;
+  padding: 96px;
+  background: #f0f0f5;
+  /* 0 0 - distancia do eixo x e y, cor preto com 10% de opacidade */
+  box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  
+  display: flex;
+  /* space-between - vai jogar a section totalmente para 
+  esquerda e o formulário totalmente para direita e vai
+  por um espaço entre ele */
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* parte da esqueda  */
+.register-container .content section {
+  width: 100%;
+  max-width: 380px;
+}
+
+/* h1 (cadastro)  */
+.register-container .content section h1 {
+  /* 64px encima, 0 nas laterais e 32px enbaixo */
+  margin: 64px 0 32px;
+  font-size: 32px;
+}
+
+/* paragrafo (texto) */
+.register-container .content section p {
+  font-size: 18px;
+  color: #737380;
+  line-height: 32px;
+}
+
+/* formulario, parte da direita */
+.register-container .content form {
+  width: 100%;
+  max-width: 450px;
+}
+
+/* separar os inputs do formulario */
+.register-container .content form input {
+  margin-top: 8px;
+}
+
+/* input cidade e uf */
+.register-container .content form .input-group {
+  display: flex;
+}
+
+/* input + input - adicionando style pra todo input a partir do segundo input */
+.register-container .content form .input-group input + input {
+  margin-top: 8px;
+}

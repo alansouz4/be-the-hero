@@ -1,0 +1,42 @@
+/* div por volta de tudo */
+.logon-container {
+  /* largura */
+  width: 100%;
+  /* largura maxima */
+  max-width: 1120px;
+  /* ocupar a altura toda do corpo */
+  height: 100vh;
+  /* faz com que o conteudo fique sempre centralizado */
+  margin: 0 auto;
+
+  /* facilita os alinhamentos e aciona o align e justify 
+  e tbm faz com que os elementos fique um ao lado do outro 
+  flex-direction: column - deixa um embaixo do outro, caso queira */
+  display: flex;
+  /* alinha os itens verticalmente ao centro */
+  align-items: center;
+  /* alinha os itens horizontalmente ao centro */
+  justify-content: space-between;
+}
+
+/* estilizando o section.form (section a tag, form a classe) */
+.logon-container section.form {
+  width: 100%;
+  max-width: 350px;
+  /* dar uma distanciada da logo */
+  margin-right: 30px;
+}
+
+/* estilizando o formulário */
+.logon-container section.form form {
+  /* dar uma boa distancia da logo */
+  margin-top: 100px;
+}
+
+/* estilizando a tag h1 (faça seu logon) */
+.logon-container section.form form h1 {
+  font-size: 32px;
+  /* distanciando "Faça seu logon" do input */
+  margin-bottom: 32px;
+}
+
