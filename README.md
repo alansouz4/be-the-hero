@@ -12,6 +12,5 @@ Back-end
 Front-end
 - HTML5
 - CSS
-- Bootstrap
 - JavaScript
 - ReactJS
