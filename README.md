@@ -6,7 +6,6 @@ Sobre a Aplicação
 
 Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda organizações sem fins lucrativos, que muitas vezes precisa de algum valor para tratar algum caso específico, Esse sistema veio para resolver exatamente isso.
 
-Linkedin: https://www.linkedin.com/in/alan-augusto-/
 
 ************************************************************************
 
@@ -51,3 +50,6 @@ Requisitos:
 - yarn start ou npm start
 - scannear código do expo pelo App do Expo
 - Pode ser acessado pelo Android Studio
+
+
+> Linkedin: https://www.linkedin.com/in/alan-augusto-/
