@@ -1,17 +1,17 @@
-# be-the-hero
+# Be The Hero
 
 #rocketseat #bethehero #omnistack #nodejs #javascript #react #express #sequelize #insomnia #eslint #mvc 
 
-Sobre a Aplicação
+## Sobre a Aplicação
 
 Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda organizações sem fins lucrativos, que muitas vezes precisa de algum valor para tratar algum caso específico, Esse sistema veio para resolver exatamente isso.
 
 
 ************************************************************************
 
-Tecnologias:
+### Tecnologias:
 
-Back-end
+#### Back-end
 - NodeJS
 - Express
 - Cors
@@ -20,13 +20,14 @@ Back-end
 
 ------------------------------------------------------------------------
 
-Front-end
+#### Front-end
 - ReactJS
 - Styled-Components
 - Axios
 - Eslint
+- React Icons
 
-Requisitos:
+## Requisitos:
 
 - Acessar o backend da aplicação 
 - yarn init ou npm install para baixar as dependências
@@ -35,14 +36,15 @@ Requisitos:
 
 ------------------------------------------------------------------------
 
-Mobile
+#### Mobile
 - React Native
 - Expo
 - Styled-Components
 - Axios
 - Eslint
+- React Icons
 
-Requisitos:
+## Requisitos:
 
 - Para acessar a aplicação precisa ter instalado no celular Expo.
 - Para ter acesso ao App precisao baixar o backend
@@ -53,4 +55,6 @@ Requisitos:
 
 <hr>
 
-> Linkedin: https://www.linkedin.com/in/alan-augusto-/
+### Acesse: 
+[linkedin-alan-augusto](https://www.linkedin.com/in/alan-augusto-/)
+
