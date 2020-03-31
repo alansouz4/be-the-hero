@@ -7,7 +7,7 @@
 Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda organizações sem fins lucrativos, que muitas vezes precisa de algum valor para tratar algum caso específico, Esse sistema veio para resolver exatamente isso.
 
 
-************************************************************************
+------------------------------------------------------------------------
 
 ### Tecnologias:
 
@@ -18,7 +18,7 @@ Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda o
 - knex
 - SQLite
 
-[Review backend](https://github.com/alansouz4/be-the-hero/blob/master/codigo.png)
+### ![Review backend](https://github.com/alansouz4/be-the-hero/blob/master/codigo.png)
 ------------------------------------------------------------------------
 
 #### Front-end
@@ -34,7 +34,7 @@ Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda o
 - yarn init ou npm install para baixar as dependências
 - yarn start ou npm start para rodar os projetos
 
-[Review frontend](https://github.com/alansouz4/be-the-hero/blob/master/front.png)
+### ![Review frontend](https://github.com/alansouz4/be-the-hero/blob/master/front.png)
 ------------------------------------------------------------------------
 
 #### Mobile
@@ -54,9 +54,9 @@ Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda o
 - scannear código do expo pelo App do Expo
 - Pode ser acessado pelo Android Studio
 
-[Review mobile](https://github.com/alansouz4/be-the-hero/blob/master/mobile.png)
+### ![Review mobile](https://github.com/alansouz4/be-the-hero/blob/master/mobile.png)
 
-<hr>
+------------------------------------------------------------------------
 
 ### Acesse: 
 [linkedin-alan-augusto](https://www.linkedin.com/in/alan-augusto-/)
