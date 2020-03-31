@@ -9,9 +9,9 @@ Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda o
 
 ------------------------------------------------------------------------
 
-### Tecnologias:
+## Tecnologias:
 
-#### Back-end
+## Back-end
 - NodeJS
 - Express
 - Cors
@@ -21,7 +21,7 @@ Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda o
 ### ![Review backend](https://github.com/alansouz4/be-the-hero/blob/master/codigo.png)
 ------------------------------------------------------------------------
 
-#### Front-end
+## Front-end
 - ReactJS
 - Styled-Components
 - Axios
@@ -37,7 +37,7 @@ Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda o
 ### ![Review frontend](https://github.com/alansouz4/be-the-hero/blob/master/front.png)
 ------------------------------------------------------------------------
 
-#### Mobile
+## Mobile
 - React Native
 - Expo
 - Styled-Components
