@@ -51,6 +51,6 @@ Requisitos:
 - scannear código do expo pelo App do Expo
 - Pode ser acessado pelo Android Studio
 
-.
+<hr>
 
 > Linkedin: https://www.linkedin.com/in/alan-augusto-/
