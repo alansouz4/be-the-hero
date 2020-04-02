@@ -1,4 +1,5 @@
-const crypto = require('crypto');
+// importamos a função de teste
+const generateUniqueId = require('../utils/generateUniqueId');
 const connection = require('../database/connection');
 
 module.exports = {
@@ -12,8 +13,8 @@ module.exports = {
   async create(request, response) {
     // traz todos os dados para o corpo
     const { name, email, whatsapp, city, uf } = request.body;
-    // cria um id hexadecimal para cada ong
-    const id = crypto.randomBytes(4).toString('HEX');
+    // chamando a função 
+    const id = generateUniqueId();
     // cria a inserção de dados das ong
     await connection('ongs').insert({
       id,
